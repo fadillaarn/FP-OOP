@@ -10,8 +10,11 @@ Pada final project kelas Pemrograman Berbasis Objek kali ini, saya berencana unt
 
 ASPEK OOP
 1. Casting/Conversion 
+   
    System.out.println(level.toString());
+   
 2. Constructor 
+3. 
    public MapLoader(String levelName, int levelNumber) {
 		this.fixedElements = null;
 		this.boxPositions = new ArrayList<Position>();
@@ -19,9 +22,13 @@ ASPEK OOP
 		this.mapHeight = 0;
 		this.mapWidth = 0;
 		this.levelNumber = levelNumber;
+	
 3. Overloading
+	
    extends
+	
 4. Overriding
+	
    @Override
 	public boolean equals(Object obj) {
 		if (this == obj)
@@ -37,7 +44,9 @@ ASPEK OOP
 			return false;
 		return true;
 	}
+	
 5. Encapsulation
+	
    public void moveBox(Position startPos, Position finalPos){
 		for (int boxPos = 0; boxPos < this.boxPositions.length; boxPos++) {
 			if (this.boxPositions[boxPos].equals(startPos)){
@@ -46,7 +55,9 @@ ASPEK OOP
 			}
 		}
 	}
+								       
 6. Inheritance 
+								       
    public class LevelGridPanel extends JPanel{
 
 	/**
@@ -96,37 +107,56 @@ ASPEK OOP
 		}
 	}
 }
+									  
 7. Polymorphism
+									  
    Contohnya ada dalam polymorphism dari overloading dan overriding yang sudah saya berikan sebelumnya.
+									  
 8. ArrayList
+									  
    Pada game saya, terdapat ArrayList yang mengatur banyaknya box dalam sebuah stage
+									  
 9. Exception Handling
+									  
    try{
 								this.fixedElements[pos.getPosX()][pos.getPosY()] = FixedMapElement.fromString(Character.toString(currentChar));
 							}catch(IllegalArgumentException e){
 								System.out.println(e.getMessage());
 							}
+									  
 10. GUI
+									  
     GUI yang saya terapkan dalam FP ini sebagian besar terdiri dari button yang digunakan untuk menjalankan playernya untuk bergerak dan juga, reset dan quit
+									  
 11. Interface
+									  
     public interface PlayerInteraction{
 	      public Direction askDirection();
 	      public int askLevelToPlay();
 	      public void askToQuit();
 	  }
+									  
 12. Abstract Class
+									  
     public abstract class GameWindow extends JFrame implements ActionListener, KeyListener, PlayerInteraction, Display{
         private JSplitPane mainSplitPanel;
         private JSplitPane secondSplitPane;
         private JSplitPane thirdSplitPane;
         private JButton quitButton;
         ...
+									  
 13. Generics
+									  
     file
+									  
 14. Collection
+									  
     Pada game saya, dapat ditemukan melalui adanya penggunakan ArrayList. ArrayList sendiri digunakan pada class Board untuk melakukan input dan output
+									  
 15. Input Output
+									  
     public void askToQuit();
+									  
 Link Sources : 
 - https://www.youtube.com/watch?v=5W2uXgf5Km8&ab_channel=Coding-adora
 - https://zetcode.com/javagames/
