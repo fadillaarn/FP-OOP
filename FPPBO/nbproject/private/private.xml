@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/fadillarizky/Documents/Documents%20-%20MacBook%20Pro%20Fadilla/PBO/FPPBO/src/sokoban/ui/graphic/LevelGridPanel.java</file>
+            <file>file:/Users/fadillarizky/Documents/Documents%20-%20MacBook%20Pro%20Fadilla/PBO/FPPBO/src/sokoban/ui/graphic/ControllerPanel.java</file>
+            <file>file:/Users/fadillarizky/Documents/Documents%20-%20MacBook%20Pro%20Fadilla/PBO/FPPBO/src/sokoban/interfaces/Display.java</file>
+            <file>file:/Users/fadillarizky/Documents/Documents%20-%20MacBook%20Pro%20Fadilla/PBO/FPPBO/src/sokoban/interfaces/PlayerInteraction.java</file>
+            <file>file:/Users/fadillarizky/Documents/Documents%20-%20MacBook%20Pro%20Fadilla/PBO/FPPBO/src/sokoban/core/Position.java</file>
+            <file>file:/Users/fadillarizky/Documents/Documents%20-%20MacBook%20Pro%20Fadilla/PBO/FPPBO/src/sokoban/ui/graphic/GameWindow.java</file>
+            <file>file:/Users/fadillarizky/Documents/Documents%20-%20MacBook%20Pro%20Fadilla/PBO/FPPBO/src/sokoban/ui/console/AIPlayerConsole.java</file>
+            <file>file:/Users/fadillarizky/Documents/Documents%20-%20MacBook%20Pro%20Fadilla/PBO/FPPBO/src/sokoban/core/MapLoader.java</file>
+            <file>file:/Users/fadillarizky/Documents/Documents%20-%20MacBook%20Pro%20Fadilla/PBO/FPPBO/src/sokoban/interfaces/Resettable.java</file>
+            <file>file:/Users/fadillarizky/Documents/Documents%20-%20MacBook%20Pro%20Fadilla/PBO/FPPBO/src/sokoban/ui/graphic/JButtonDirection.java</file>
+            <file>file:/Users/fadillarizky/Documents/Documents%20-%20MacBook%20Pro%20Fadilla/PBO/FPPBO/src/sokoban/launcher/StartGui.java</file>
+            <file>file:/Users/fadillarizky/Documents/Documents%20-%20MacBook%20Pro%20Fadilla/PBO/FPPBO/src/sokoban/core/Sokoban.java</file>
+            <file>file:/Users/fadillarizky/Documents/Documents%20-%20MacBook%20Pro%20Fadilla/PBO/FPPBO/src/sokoban/ui/console/HumanPlayerConsole.java</file>
+            <file>file:/Users/fadillarizky/Documents/Documents%20-%20MacBook%20Pro%20Fadilla/PBO/FPPBO/src/sokoban/ui/graphic/LevelSelectionPanel.java</file>
+            <file>file:/Users/fadillarizky/Documents/Documents%20-%20MacBook%20Pro%20Fadilla/PBO/FPPBO/src/sokoban/ui/console/DisplayConsole.java</file>
+            <file>file:/Users/fadillarizky/Documents/Documents%20-%20MacBook%20Pro%20Fadilla/PBO/FPPBO/src/sokoban/ui/graphic/MenuWindow.java</file>
+        </group>
+    </open-files>
+</project-private>
