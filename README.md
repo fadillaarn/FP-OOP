@@ -14,7 +14,7 @@ ASPEK OOP
    System.out.println(level.toString());
    
 2. Constructor 
-3. 
+
    public MapLoader(String levelName, int levelNumber) {
 		this.fixedElements = null;
 		this.boxPositions = new ArrayList<Position>();
